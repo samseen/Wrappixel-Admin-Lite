@@ -398,6 +398,7 @@
     <Content Include="Assets\plugins\images\admin-text-dark.png" />
     <Content Include="Assets\plugins\images\admin-text.png" />
     <Content Include="Assets\plugins\images\favicon.png" />
+    <Content Include="Assets\plugins\images\img3.jpg" />
     <Content Include="Assets\plugins\images\large\img1.jpg" />
     <Content Include="Assets\plugins\images\users\arijit.jpg" />
     <Content Include="Assets\plugins\images\users\genu.jpg" />
@@ -654,6 +655,7 @@
     <Content Include="Views\Shared\_Footer.cshtml" />
     <Content Include="Views\Shared\_RightSideBar.cshtml" />
     <Content Include="Views\Home\BootstrapTables.cshtml" />
+    <Content Include="Views\Home\Animation.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
