@@ -653,6 +653,7 @@
     <Content Include="Views\Shared\_LeftSideMenu.cshtml" />
     <Content Include="Views\Shared\_Footer.cshtml" />
     <Content Include="Views\Shared\_RightSideBar.cshtml" />
+    <Content Include="Views\Home\BootstrapTables.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
