@@ -676,6 +676,7 @@
     <Content Include="Views\Home\BootstrapTables.cshtml" />
     <Content Include="Views\Home\Animation.cshtml" />
     <Content Include="Views\Home\Calendar.cshtml" />
+    <Content Include="Views\Home\Google.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
