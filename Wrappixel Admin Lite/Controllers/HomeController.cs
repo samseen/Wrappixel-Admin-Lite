@@ -48,7 +48,12 @@ namespace Wrappixel_Admin_Lite.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Four0Four()
+        {
+            return View();
+        }
+
+    public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
 

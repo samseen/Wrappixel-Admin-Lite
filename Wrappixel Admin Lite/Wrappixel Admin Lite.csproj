@@ -680,6 +680,7 @@
     <Content Include="Views\Home\Profile.cshtml" />
     <Content Include="Views\Home\Blank.cshtml" />
     <Content Include="Views\Home\FontAwesome.cshtml" />
+    <Content Include="Views\Home\Four0Four.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
